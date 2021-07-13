@@ -1,4 +1,4 @@
-﻿Public Class btntextox
+Public Class btntextox
     Inherits TextBox
 
     Private _button As Button
@@ -19,7 +19,7 @@
     End Property
 
     Private Sub myBtn_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        ' Handle your Button clicks here
+        ' Handle your Button clicks here '
     End Sub
 
 End Class
